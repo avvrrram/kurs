@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\Kurs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\Kurs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\FunctionCalculator.Form1.resources
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\Kurs.Properties.Resources.resources
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\Kurs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\kurs\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\Admin\Desktop\kurs\Kurs\bin\Debug\Kurs.exe
+C:\Users\Admin\Desktop\kurs\Kurs\bin\Debug\Kurs.pdb
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\Kurs.exe
+C:\Users\Admin\Desktop\kurs\Kurs\obj\Debug\Kurs.pdb
